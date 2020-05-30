@@ -1,0 +1,1 @@
+Ghidra scripts run inside an isolated Jython environment so we need to first use a regular python script to dump the xlxs file to JSON which can then be used in the ghidra script.

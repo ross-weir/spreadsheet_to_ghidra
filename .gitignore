@@ -1,0 +1,4 @@
+venv
+.idea
+excel_to_ghidra.egg-info
+__pycache__
